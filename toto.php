@@ -1,2 +1,2 @@
-Bonjour, <?php echo htmlspecialchars($_POST['nom']); ?>.
+Bonjour, <?php echo htmlspecialchars($_POST['name']); ?>.
 Tu as <?php echo (int)$_POST['age']; ?> ans.
