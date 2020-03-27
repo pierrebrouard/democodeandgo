@@ -1,1 +1,5 @@
 node_module
+random_file.php
+*.c
+*.c~
+*.c#
